@@ -1,0 +1,45 @@
+@media(max-width:480px){
+  *{
+    float:none;
+  }
+  .container{
+    width:100%;
+    overflow: hidden;
+  }
+  .logo{float: none;position: absolute;left:37%;}
+  nav{float:none;margin-top: 42px;}
+  .banner-content{
+    font-size: .9em;
+  }
+  #second-part-about{
+    height: auto;
+  }
+  .about-left{width:100%}
+  .descrition{
+    width: 100%;
+    margin:0;
+    height: auto;
+  }
+  .btn-of-about{
+    left:50%
+    transform:translateX(-50%);
+  }
+  .gallery-container{
+    width:100%;
+  }
+  .gallery-img{
+    width:100%;
+    float: none;
+  }
+
+
+  .contact-bottom-content{
+    width: 100%;
+  }
+  .footer-div{
+    float: none;
+    width: 100%;
+  }
+
+
+}

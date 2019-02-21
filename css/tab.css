@@ -1,0 +1,44 @@
+@media screen and (min-width : 500px) and (max-width : 749px) {
+  *{
+    float:none;
+
+  }
+  .container{
+    width:100%;
+    overflow: hidden;
+  }
+  .banner-content{
+    font-size: 1em;
+  }
+  #second-part-about{
+    height: auto;
+  }
+  .about-left{width:100%}
+  .descrition{
+    width: 100%;
+    margin:0;
+    height: auto;
+  }
+  .btn-of-about{
+    left:50%
+    transform:translateX(-50%);
+  }
+  .gallery-container{
+    width:100%;
+  }
+  .gallery-img{
+    width:50%;
+  }
+
+
+  .contact-bottom-content{
+    width: 100%;
+
+  }
+  .footer-div{
+    width: 50%;
+    overflow: hidden;
+  }
+
+
+}
